@@ -1,0 +1,14 @@
+{
+  "name": "belajar_api",
+  "version": "3.0.0",
+  "description": "ini adalah pelajaran api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mas ian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
